@@ -2,10 +2,11 @@
 title: Yihan(Evelyn) Li
 logo: "/images/IMG_1120 2.jpg"
 description: |
-  Second description  
-  [View My Resume](/pdf/Yihan Li-Resume-2025.pdf)  
-  [View My LinkedIn Profile](https://www.linkedin.com/in/yihanli0106)  
-  [View My Projects on GitHub](https://www.github.com/YihanLi0106)  
+  Second description
+  <a href="/pdf/Yihan Li-Resume-2025.pdf">View My Resume</a>
+  <a href="https://www.linkedin.com/in/yihanli0106">View My LinkedIn Profile</a> 
+  <a href="https://www.github.com/YihanLi0106">View My Projects on GitHub</a>
+
 
   ![Boston University Seal](/images/Boston_University_seal.svg.png){: width="100"}  
   Boston University: Master  
