@@ -1,3 +1,10 @@
+## About Me
+I'm a recent graduate of Boston University's Mathematical Finance & Financial Technology program (Class of 2025). With a strong foundation in finance, programming, and quantitative analysis, I specialize in building data-driven financial models and strategies. My skills include Python, R, SQL, C++, and machine learning techniques, with applications in fix income, portfolio management, credit risk, deep learning, and algorithmic trading.
+
+Passionate about the intersection of finance and technology, I enjoy solving complex problems and creating innovative solutions. Feel free to explore my projects here and connect with me on
+
+---
+
 ## Portfolio
 
 ---
