@@ -1,12 +1,12 @@
 title: Yihan(Evelyn) Li # your name (or website title) here
 logo: "/images/IMG_1120 2.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I recently graduated from Boston University's Mathematical Finance & Financial Technology program (Class of 2025). With a strong foundation in finance, programming, and quantitative analysis, I specialize in building data-driven financial models and strategies. My skills include Python, R, SQL, C++, and machine learning techniques, with applications in fix income, portfolio management, credit risk, deep learning, and algorithmic trading. 
   <br><br>
   Second description 
   <br><br>
-  pdf/Yihan Li-Resume-2025.pdf
   <a href="/pdf/Yihan Li-Resume-2025.pdf">View My Resume</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/yihanli0106">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
