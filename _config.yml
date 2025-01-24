@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
+  pdf/Yihan Li-Resume-2025.pdf
+  <a href="/pdf/Yihan Li-Resume-2025.pdf">View My Resume</a> 
   <a href="https://www.linkedin.com/in/yihanli0106">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
