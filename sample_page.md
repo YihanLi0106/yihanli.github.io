@@ -1,10 +1,10 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
-</script>
-
 ## Fixed Income ETF Hedging
 
 **Project description:** ASL Capital Inc. is expanding its focus to the fixed-income ETF market. This research investigates key factors influencing the price dynamics and performance of fixed-income ETFs. The study quantifies the effects of interest rate fluctuations and market volatility on these ETFs by employing hedging strategies with futures contracts.
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
+</script>
 
 ---
 
