@@ -2,13 +2,12 @@
 title: Yihan(Evelyn) Li
 logo: "/images/IMG_1120 2.jpg"
 description: |
+  Boston University
+  Boston, USA
   <br><br>
   <a href="/pdf/Yihan Li-Resume-2025.pdf">View My Resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/yihanli0106">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://www.github.com/YihanLi0106">View My Projects on GitHub</a>
-  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
