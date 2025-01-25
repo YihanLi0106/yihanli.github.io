@@ -19,11 +19,11 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 ### ASL Capital Markets Inc. - Quantitative Analyst Intern
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/EvelynLi-Interest_Rate_Data_Visualization.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/results.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
