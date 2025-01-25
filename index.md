@@ -20,6 +20,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 [Project 1 Title](/sample_page)
 <img src="images/EvelynLi-Interest_Rate_Data_Visualization.png"/>
+<img src="images/results.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
