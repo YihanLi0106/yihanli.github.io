@@ -30,23 +30,29 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 ---
 
 ## Project
-[3D Tensor-based Deep Learning Models for Predicting Option Price](/796.md)
+- [3D Tensor-based Deep Learning Models for Predicting Option Price](/796.md)
 <img src="images/796-5.png"/>
 
-[Robust Bond Portfolio Construction via Convex-Concave Saddle Point Optimization](/728.md)
+- [Robust Bond Portfolio Construction via Convex-Concave Saddle Point Optimization](/728.md)
 <img src="images/728-4.png"/>
-
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
+## Career Objectives
+- Quant Analyst
+- Quant Risk Analyst
+- Portfolio Analyst/Asset Management
+- Data Analyst
 
+---
 
+## Hobbies and Interests
+- Baking
+- Photograph
+- Pop music/Jazz
+- Suspense: Inception, The Prestige, Knives Out, True Detective, Sherlock 
+
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
