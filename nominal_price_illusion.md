@@ -99,7 +99,7 @@ Where:
 3. **Stock Splits:**
    Post-split skewness expectations increase significantly despite a decline in realized physical skewness, demonstrating the strong influence of nominal price changes on investor perceptions.
 
-<img src="images/IEF vs US.png"/>
+<img src="images/npi.png"/>
 
 *Figure:  RNSkew around stock splits. *
 
