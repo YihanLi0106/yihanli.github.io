@@ -18,11 +18,13 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 ### ASL Capital Markets Inc. - Quantitative Analyst Intern
 
-[Project 1 Title](/sample_page.md)
+[Fixed Income ETF Hedging](/sample_page.md)
 <img src="images/results.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### CCX Indices, - Quantitative Analyst Intern
+[Portfolio Analysis and Factor Attribution](/pdf/sample_presentation.pdf)
 <img src="images/results.png"/>
 
 ---
