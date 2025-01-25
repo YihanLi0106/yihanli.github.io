@@ -8,7 +8,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 ## Skills
 **Programming**: Python, SQL, R, C++, Pandas, NumPy, Scikit-learn, SciPy, TensorFlow, VBA, MATLAB, STATA, LaTeX
 
-**Methods**: MLE, OLS, Time Series, Bayesian, Factor Modeling, VaR, Machine Learning, Deep Learning
+**Methods**: MLE, OLS, Time Series, Bayesian, Factor Modeling, VaR, Monte Carlo，Machine Learning, Deep Learning
 
 ---
 
