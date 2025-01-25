@@ -21,7 +21,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 
 ### CCX Indices, - Quantitative Analyst Intern
-[Portfolio Analysis and Factor Attribution](/nominal_price_illusion.md)
+[Portfolio Analysis and Factor Attribution](/Code/CCXD/ESG_report/statistics.py)
 <img src="images/esg.jpg"/>
 
 [Nominal Price Illusion](/nominal_price_illusion.md)
@@ -35,6 +35,9 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 - [Robust Bond Portfolio Construction via Convex-Concave Saddle Point Optimization](/728.md)
 <img src="images/728-4.png"/>
+
+- [CVA and Hedging of Counterparty Risk](/772.md)
+<img src="images/772-4.png"/>
 
 ---
 
