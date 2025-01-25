@@ -1,7 +1,7 @@
 ---
 title: Yihan(Evelyn) Li
 logo: "/images/IMG_1120 2.jpg"
-description: >
+description: |
   <br><br>
   <a href="/pdf/Yihan Li-Resume-2025.pdf">View My Resume</a>
   <br><br>
@@ -9,17 +9,14 @@ description: >
   <br><br>
   <a href="https://www.github.com/YihanLi0106">View My Projects on GitHub</a>
   <br><br>
- 
   <div style="text-align: center;">
     <img src="/images/Boston_University_seal.svg.png" alt="Boston University Seal" width="150" style="margin-bottom: 10px;">
-    <p>Boston University  Master</p>
+    <p>Boston University Master</p>
   </div>
-
-  <div style="text-align: center;">
+  <div style="text-align: center; margin-top: 20px;">
     <img src="/images/TJU_logo.png" alt="Tianjin University Seal" width="150" style="margin-bottom: 10px;">
-    <p>Tianjin University  Master</p>
+    <p>Tianjin University Master</p>
   </div>
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
