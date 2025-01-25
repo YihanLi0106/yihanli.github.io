@@ -27,9 +27,8 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 [Portfolio Analysis and Factor Attribution](/pdf/sample_presentation.pdf)
 <img src="images/results.png"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nominal Price Illusion](http://example.com/)
+<img src="images/npi.png"/>
 
 ---
 
