@@ -18,7 +18,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 ### ASL Capital Markets Inc. - Quantitative Analyst Intern
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/sample_page.md)
 <img src="images/EvelynLi-Interest_Rate_Data_Visualization.png"/>
 <img src="images/results.png"/>
 
