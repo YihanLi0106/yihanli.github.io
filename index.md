@@ -12,11 +12,11 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 ---
 
-## Portfolio
+## Internship
 
 ---
 
-### Category Name 1 
+### ASL Capital Markets Inc. - Quantitative Analyst Intern
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
