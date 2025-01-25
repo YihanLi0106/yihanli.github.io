@@ -74,7 +74,7 @@ where DV01 represents the dollar value change for a 1 basis point move in yield 
 - **IEF** demonstrated a strong correlation with US futures, and **TLT** showed a strong correlation with WN futures, indicating effective hedging potential in both mid- to long-duration ETFs.  
 - In contrast, **BIL**, **SGOV**, and **USFR** had low correlations with all Treasury futures and SOFR futures, resulting in limited hedging effectiveness when using SOFR futures.
 
-<img src="images/IEF_vs_US.png" />
+<img src="images/IEF vs US.png"/>
 
 *Figure 1: IEF Duration Hedge*
 
@@ -132,6 +132,32 @@ Where:
 - \( \hat{\beta} \): Estimated regression coefficient  
 - \( V_S \): Value of the position being hedged  
 - \( V_H \): Value of one unit of the hedging instrument  
+ 
+**Methodology**:  
+We employ various regression techniques, including Linear Regression, Lasso Regression, Ridge Regression, and LightGBM (Gradient Boosting Machine). Additionally, to ensure the stability of the beta coefficient over time, we utilize a sliding window approach with rolling regressions and time-varying betas. This frequent updating reflects the latest market conditions and interactions between variables, ensuring that the beta estimates remain relevant and accurate. This involves setting different window lengths, such as 15 days, 30 days, 45 days, and 60 days, to capture temporal variations in the beta coefficient effectively.
+
+
+**Results**:  
+The optimized portfolio strategy significantly outperformed ETF holdings, particularly for mid- to long-duration ETFs like **IEF** and **TLT**, demonstrating enhanced cumulative returns. The information ratio improvements (+1.16 for **IEF** and +0.995 for **TLT**) confirm stronger risk-adjusted performance.
+
+**Information Ratio for Optimized Portfolio vs. Holding ETF**:
+
+| ETF  | BIL | SGOV | IEF | TLT |
+|------|-----|------|-----|-----|
+| Optimized Portfolio | 0.95 | 0.97 | 0.88 | 0.38 |
+| Holding ETF         | 0.86 | 0.89 | -0.29 | -0.61 |
+| **Change**          | **+0.08** | **+0.08** | **+1.16** | **+0.995** |
+
+*Table 1: Information Ratio for Optimized Portfolio vs. Holding ETF*
+
+---
+
+**Accumulated Return Comparison for ETFs**:  
+The following charts show the cumulative returns for BIL, SGOV, IEF, and TLT:
+
+<img src="images/results.png"/>
+
+*Figure 2: Accumulated Return Comparison for ETFs*
 
 ---
 
