@@ -31,7 +31,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 ## Project
 [3D Tensor-based Deep Learning Models for Predicting Option Price](/796.md)
-<img src="images/796-5.jpg"/>
+<img src="images/796-5.png"/>
 
 
 - [Project 1 Title](http://example.com/)
