@@ -25,7 +25,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 
 ### CCX Indices, - Quantitative Analyst Intern
 [Portfolio Analysis and Factor Attribution](/nominal_price_illusion.md)
-<img src="images/results.png"/>
+<img src="images/esg.png"/>
 
 [Nominal Price Illusion](/nominal_price_illusion.md)
 <img src="images/npi.png"/>
