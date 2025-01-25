@@ -33,6 +33,9 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 [3D Tensor-based Deep Learning Models for Predicting Option Price](/796.md)
 <img src="images/796-5.png"/>
 
+[Robust Bond Portfolio Construction via Convex-Concave Saddle Point Optimization](/728.md)
+<img src="images/728-4.png"/>
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
