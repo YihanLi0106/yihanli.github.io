@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
+</script>
+
 ## Fixed Income ETF Hedging
 
 **Project description:** ASL Capital Inc. is expanding its focus to the fixed-income ETF market. This research investigates key factors influencing the price dynamics and performance of fixed-income ETFs. The study quantifies the effects of interest rate fluctuations and market volatility on these ETFs by employing hedging strategies with futures contracts.
@@ -67,7 +71,7 @@ Duration hedging is a risk management technique used to mitigate the sensitivity
 - **IEF** demonstrated a strong correlation with US futures, and **TLT** showed a strong correlation with WN futures, indicating effective hedging potential in both mid- to long-duration ETFs.  
 - In contrast, **BIL**, **SGOV**, and **USFR** had low correlations with all Treasury futures and SOFR futures, resulting in limited hedging effectiveness when using SOFR futures.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IEF vs US.png"/>
 
 *Figure 1: IEF Duration Hedge*
 
@@ -155,7 +159,7 @@ The optimized portfolio strategy significantly outperformed ETF holdings, partic
 **Accumulated Return Comparison for ETFs**:  
 The following charts show the cumulative returns for BIL, SGOV, IEF, and TLT:
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/results.png"/>
 
 *Figure 2: Accumulated Return Comparison for ETFs*
 
