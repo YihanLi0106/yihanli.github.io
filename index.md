@@ -37,7 +37,7 @@ Passionate about the intersection of finance and technology, I enjoy solving com
 <img src="images/728-4.png"/>
 
 - [CVA and Hedging of Counterparty Risk](/772.md)
-<img src="images/772-4.png"/>
+<img src="images/772-2.png"/>
 
 ---
 
